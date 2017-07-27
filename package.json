@@ -1,0 +1,22 @@
+{
+  "name": "damien",
+  "version": "1.0.0",
+  "description": "\"# formation-devops\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgreffard44/formation-devops.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgreffard44/formation-devops/issues"
+  },
+  "homepage": "https://github.com/dgreffard44/formation-devops#readme",
+  "devDependencies": {
+    "should": "^11.2.1"
+  }
+}
